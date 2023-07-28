@@ -1,3 +1,3 @@
 import time
 
-print("aawdawdaw")
+print("ghghghgh")
